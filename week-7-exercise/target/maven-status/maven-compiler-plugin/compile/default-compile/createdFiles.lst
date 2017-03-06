@@ -1,0 +1,6 @@
+edu\matc\persistence\UserDao.class
+edu\matc\entity\HelloWorld.class
+edu\matc\entity\User.class
+edu\matc\entity\HelloApplication.class
+edu\matc\persistence\SessionFactoryProvider.class
+edu\matc\util\LocalDateAttributeConverter.class
